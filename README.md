@@ -12,6 +12,12 @@ $ npm run dev
 ## Production Build Setup
 
 ``` bash
+# make sure you have vue-cli globally installed
+$ npm install -g vue-cli
+
+# Node.js >= 8.9.0 is required.
+$ npm install -g quasar-cli
+
 # build for production with minification
 $ quasar build
 
