@@ -1,6 +1,7 @@
 # JotForm Statistics
 A Vue.js and Quasar app.
 You can view your forms' statistics easily.
+App is available at [Google Play][play].
 
 # Dev-Build
 ``` bash
@@ -24,3 +25,5 @@ $ quasar build
 # lint code
 $ quasar lint
 ```
+
+[play]: https://play.google.com/store/apps/details?id=com.jotform.nrlmcn
