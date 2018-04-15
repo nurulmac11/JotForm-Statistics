@@ -5,6 +5,8 @@ App is available at [Google Play][play].
 
 # Dev-Build
 ``` bash
+$ git clone git@github.com:nurulmac11/JotForm-Statistics.git
+$ cd JotForm-Statistics/
 # install dependencies
 $ npm install
 $ npm run dev
