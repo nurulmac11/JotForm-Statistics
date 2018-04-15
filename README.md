@@ -1,16 +1,15 @@
-# Quasar App
+# JotForm Statistics
 
-> A Quasar project
 
-## Build Setup
-
+# Dev-Build
 ``` bash
 # install dependencies
 $ npm install
+$ npm run dev
 
-# serve with hot reload at localhost:8080
-$ quasar dev
+## Production Build Setup
 
+``` bash
 # build for production with minification
 $ quasar build
 
