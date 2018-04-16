@@ -19,7 +19,7 @@ $ npm run dev
 $ npm install -g vue-cli
 
 # Node.js >= 8.9.0 is required.
-$ npm install -g quasar-cli
+$ npm install -g quasar-cli@0.15.14
 
 # build for production with minification
 $ quasar build
